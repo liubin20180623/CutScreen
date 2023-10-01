@@ -12,13 +12,13 @@ Cut Screen+是一款仿Screen+的电脑分屏软件.
 #### 使用说明
 
 1.在任务栏找到Cut Screen+软件的图标，点击鼠标右键，可以打开软件菜单,即可显示软件已经定义好的布局  
-![图片](https://github.com/liubin20180623/CutScreen/tree/master/document/1.png)  
+![图片](https://github.com/liubin20180623/CutScreen/raw/master/document/1.png)  
 
 2.我们选择第五个布局，然后看一下效果。只需把打开的软件拖动到屏幕的对应位置上，窗口就会被自动调整为该布局的大小。  
-![图片](https://github.com/liubin20180623/CutScreen/tree/master/document/2.png)
+![图片](https://github.com/liubin20180623/CutScreen/raw/master/document/2.png)
 
 3.如果要退出这个布局，选择X按钮，这样就相当于没有运行Cut Screen+的软件一样的效果了.  
-![图片](https://github.com/liubin20180623/CutScreen/tree/master/document/3.png) 
+![图片](https://github.com/liubin20180623/CutScreen/raw/master/document/3.png) 
 
 
 #### 为什么开发 Cut Screen？
