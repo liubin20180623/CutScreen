@@ -1,0 +1,78 @@
+﻿QMenu{
+    background:white;
+    border:1px solid lightgray;
+}
+
+QMenu::item{
+    padding:0px 20px 0px 20px;
+    margin-left: 5px;
+    height:25px;
+}
+
+QMenu::item:selected:enabled{
+    background: lightgray;
+    color: white;
+}
+
+QMenu::separator{
+    height:1px;
+    background: lightgray;
+    margin:2px 0px 2px 0px;
+}
+
+QMenu::item:selected:!enabled{
+    background:transparent;
+}
+
+QLabel#WhiteLabel{
+    color:white;
+    font-family:"Times New Roman";
+    font-size: 18px;
+}
+
+.QPushButton{
+        border-style: none;
+        border: 0px;
+        color: #F0F0F0;
+        padding: 5px;
+        min-height: 20px;
+        border-radius:5px;
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #1B89CA, stop:1 #1077B5);
+}
+
+.QPushButton[focusPolicy="0"]{
+        border-style: none;
+        border: 0px;
+        color: #F0F0F0;
+        padding: 0px;
+        min-height: 10px;
+        border-radius:3px;
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #1B89CA, stop:1 #1077B5);
+}
+
+.QPushButton:hover,QToolButton:pressed{
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #5CACEE, stop:1 #4F94CD);
+}
+.QPushButton:checked{
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #5CACEE, stop:1 #4F94CD);
+}
+.QPushButton:pressed,QToolButton:pressed{
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #1B89CA, stop:1 #1077B5);
+}
+.QPushButton:flat,QToolButton:flat{
+        border:none;
+}
+.QPushButton:default,QToolButton:default{
+        border-color:navy;
+}
+
+QPushButton#TrayButton {
+    border: none;
+    background: transparent;
+        color:rgb(0,0,0);
+}
+
+QPushButton#TrayButton:hover {
+    background: rgb(233, 237, 252);
+    color: rgb(42, 120, 192);
+}

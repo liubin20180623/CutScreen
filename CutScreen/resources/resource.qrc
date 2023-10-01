@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/system_tray.png</file>
+        <file>images/topicon.png</file>
+        <file>css/blue.css</file>
+        <file>images/0.bmp</file>
+        <file>images/1.bmp</file>
+        <file>images/2.bmp</file>
+        <file>images/3.bmp</file>
+        <file>images/4.bmp</file>
+        <file>images/5.bmp</file>
+        <file>images/6.bmp</file>
+        <file>images/7.bmp</file>
+        <file>images/8.bmp</file>
+        <file>images/9.bmp</file>
+        <file>images/10.bmp</file>
+        <file>images/11.bmp</file>
+        <file>images/12.bmp</file>
+        <file>images/13.bmp</file>
+        <file>images/14.bmp</file>
+        <file>images/15.bmp</file>
+        <file>images/16.bmp</file>
+        <file>images/17.bmp</file>
+        <file>images/about.png</file>
+        <file>images/quit.png</file>
+        <file>images/update.png</file>
+        <file>images/qq.png</file>
+        <file>images/app.ico</file>
+        <file>images/app.png</file>
+    </qresource>
+</RCC>
